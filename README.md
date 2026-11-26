@@ -7,8 +7,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-09nb.onrender.com/api?username=Krishna-Sahu0-0&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA&bg_color=0A101F&border_color=1B2745&line_height=26.1">
-    <img src="https://github-readme-stats-09nb.onrender.com/api?username=Krishna-Sahu0-0&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=0891B2&text_color=0F172A&icon_color=7C3AED&bg_color=F8FAFC&border_color=CBD5E1&line_height=26.1" width="49%" align="top" alt="Krishna's GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-09nb.onrender.com/api?username=Krishna-Sahu0-0&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=22D3EE&text_color=E2E8F0&icon_color=A78BFA&bg_color=0A101F&border_color=1B2745&line_height=26.2">
+    <img src="https://github-readme-stats-09nb.onrender.com/api?username=Krishna-Sahu0-0&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=0891B2&text_color=0F172A&icon_color=7C3AED&bg_color=F8FAFC&border_color=CBD5E1&line_height=26.2" width="49%" align="top" alt="Krishna's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-09nb.onrender.com/api/top-langs/?username=Krishna-Sahu0-0&layout=compact&langs_count=8&title_color=22D3EE&text_color=E2E8F0&bg_color=0A101F&border_color=1B2745">
